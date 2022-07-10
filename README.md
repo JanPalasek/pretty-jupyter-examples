@@ -1,8 +1,8 @@
 # Pretty Jupyter Examples
 
-Shows, how Pretty Jupyter can be used by using examples. It is recommended to just clone it and watch the generated HTML document and compare it with the ipynb source.
+Shows, how Pretty Jupyter can be used by using examples. The generated HTML documents can be viewed with https://raw.githack.com/.
 
-However, if you want to run any of the examples, install the latest Pretty Jupyter. 
+If you want to run any of the examples, install the latest Pretty Jupyter. 
 
 ```sh
 python -m venv "venv"
