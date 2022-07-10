@@ -11,6 +11,8 @@ This template demonstrates how to extend the template. It contains the following
         - adds new styles
         - changes the header so it contains also the author and the date when the HTMl was generated (thanks to `custom_preprocessor`)
 
+For more in-depth explanation, check out [nbconvert](https://nbconvert.readthedocs.io/en/latest/).
+
 ## How To Run
 
 ```sh
