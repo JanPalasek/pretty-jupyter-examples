@@ -1,0 +1,12 @@
+{
+    "base_template": "pj",
+    "mimetypes": {
+      "text/html": true
+    },
+    "preprocessors": {
+      "1-alter-resources": {
+        "type": "custom_preprocessor.CustomPreprocessor",
+        "enabled": true
+      }
+    }
+}
