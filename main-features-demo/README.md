@@ -2,6 +2,8 @@
 
 Demonstrates the main features of the notebook.
 
+You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/main-features-demo/main-features-demo.html.
+
 ## How to Run
 
 ```sh

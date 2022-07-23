@@ -1,6 +1,6 @@
 # Pretty Jupyter Examples
 
-Shows, how [Pretty Jupyter](https://github.com/JanPalasek/pretty-jupyter) can be used by using examples. The generated HTML documents can be viewed with https://raw.githack.com/.
+Shows, how [Pretty Jupyter](https://github.com/JanPalasek/pretty-jupyter) can be used by using examples.
 
 If you want to run any of the examples, install the latest Pretty Jupyter. 
 
