@@ -23,3 +23,5 @@ cd extending-template
 
 jupyter nbconvert --to html --template custom-template notebook.ipynb
 ```
+
+Note that if we didn't run `jupyter nbconvert` command from the same directory as is the custom-template and we wanted to use it, we would need to also specify parameter `--TemplateExporter.extra_template_basedirs=path/you/want/included`.
