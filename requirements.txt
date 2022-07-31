@@ -1,1 +1,1 @@
-pretty-jupyter
+pretty-jupyter==1.2.4
