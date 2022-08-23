@@ -13,7 +13,7 @@ This template demonstrates how to extend the template. It contains the following
 
 For more in-depth explanation, check out [nbconvert](https://nbconvert.readthedocs.io/en/latest/).
 
-You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/extending-template/notebook.html.
+**You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/extending-template/notebook.html.**
 
 ## How To Run
 

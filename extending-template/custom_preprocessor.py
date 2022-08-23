@@ -3,7 +3,6 @@ from nbconvert.preprocessors import Preprocessor
 
 class CustomPreprocessor(Preprocessor):
     def preprocess(self, nb, resources):
-        resources["date"] = datetime.now()
         return super().preprocess(nb, resources)
 
     def preprocess_cell(self, cell, resources, index):

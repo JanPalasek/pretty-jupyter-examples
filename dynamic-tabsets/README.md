@@ -2,7 +2,7 @@
 
 This notebook demonstrates how to create tabsets dynamically. This is useful e.g. if we have many tables or plots that we want to show but we do not want to it to lead to an infinity visually clogged report.
 
-You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/dynamic-tabsets/dynamic-tabsets.html.
+**You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/dynamic-tabsets/dynamic-tabsets.html.**
 
 ## How to Run
 

@@ -1,1 +1,2 @@
 pretty-jupyter
+nbconvert==7.0.0

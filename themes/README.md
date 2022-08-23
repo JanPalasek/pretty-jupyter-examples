@@ -2,7 +2,7 @@
 
 This notebook demonstrates how to use themes.
 
-You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/themes/themes.html.
+**You can view the generated HTML report here: https://raw.githack.com/JanPalasek/pretty-jupyter-examples/main/themes/themes.html.**
 
 ## How to Run
 
