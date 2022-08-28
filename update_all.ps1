@@ -28,4 +28,7 @@ jupyter nbconvert --to pdf --template pj-pdf .\pdf.ipynb --execute
 cd ../interactive-components
 jupyter nbconvert --to html --template pj interactive-components.ipynb --execute
 
+cd ../metadata
+jupyter nbconvert --to html --template pj metadata.ipynb --execute --allow-errors
+
 cd ..
