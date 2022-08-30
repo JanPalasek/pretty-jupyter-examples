@@ -1,2 +1,2 @@
-pretty-jupyter
-nbconvert==7.0.0
+pretty-jupyter==2.0.0-rc1
+nbconvert==6.5.0

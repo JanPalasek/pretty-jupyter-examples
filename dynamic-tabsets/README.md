@@ -10,5 +10,5 @@ This notebook demonstrates how to create tabsets dynamically. This is useful e.g
 # assumption: we are in the root directory of the repo
 cd dynamic-tabsets
 
-jupyter nbconvert --to html --template pj --RemoveInputPreprocessor.jinja=0 .\dynamic-tabsets.ipynb
+jupyter nbconvert --to html --template pj .\dynamic-tabsets.ipynb
 ```
