@@ -1,5 +1,7 @@
 ./venv/Scripts/Activate.ps1
 
+python -m pip install -r "requirements.txt"
+
 python -m pip uninstall pretty_jupyter
 python -m pip install $env:PRETTY_JUPYTER_PATH
 

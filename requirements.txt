@@ -1,2 +1,10 @@
-pretty-jupyter==2.0.2
-nbconvert==6.5.0
+seaborn
+nbconvert
+matplotlib
+pandas
+numpy
+plotly
+tabulate
+itables
+python-highcharts
+jupyter
