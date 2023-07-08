@@ -1,5 +1,5 @@
 seaborn
-nbconvert
+nbconvert<7
 matplotlib
 pandas
 numpy
